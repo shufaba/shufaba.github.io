@@ -1,0 +1,27 @@
+.img-topic
+  max-width: 300px;
+  max-height: 1800px;
+  display: block ;
+  margin-left: .7em;
+  margin-right: .7em;
+  padding: 0;
+  float: right;
+  clear: right;
+
+
+.img-logo 
+  max-width: 180px;
+  max-height: 96px;
+  display: block;
+  margin-right: .7em;
+  margin-left: .7em;
+  padding: 0;
+  float: right;
+  clear: right;
+
+.img-center
+  display: block ;
+  margin: auto;
+
+.img-shadow
+  box-shadow: 0 0 2px 3px #ddd;
